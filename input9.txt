@@ -1,0 +1,16 @@
+A*
+A
+Z
+6
+A B 1
+B E 1
+E Z 1
+B Z 1
+A C 1
+C Z 1
+5
+A 3
+B 1
+C 1
+E 1
+Z 0

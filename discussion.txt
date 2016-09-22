@@ -1,0 +1,27 @@
+A*
+S
+G
+13
+S B 5
+S A 7
+C D 1
+D B 1
+B A 9
+A E 8
+S C 1
+E G 9
+A F 9
+F G 2
+B H 4
+B G 3
+H G 4
+9
+S 0
+A 0
+B 0
+C 0
+D 0
+E 0
+F 0
+G 0
+H 0
